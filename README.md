@@ -1,2 +1,4 @@
-# WEFund-main
-Terra invest plastform v 13.0
+# WEFund smart contract
+
+Terra invest plastform
+v 13.0
